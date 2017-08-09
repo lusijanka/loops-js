@@ -6,4 +6,4 @@ drawTree = function(a) {
 		console.log(star);
 	};
 };
-console.log(drawTree(5));
+drawTree(5);
